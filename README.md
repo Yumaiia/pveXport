@@ -5,6 +5,10 @@
 pveXport is a cli utility aimed to provide a rvtools-like fonctionnality for Proxmox VE hosts and clusters.
 It connects to a Proxmox VE host or cluster API and exports its inventory (cluster status, nodes, LXC containers, QEMU VMs, and physical disks) to an Excel workbook.
 
+### Screenshot
+
+![pveXport screenshot](pvexport-screenshot.png)
+
 ## Requirements
 
 - Python 3
